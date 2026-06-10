@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Seb. I am a student at Truro-Penwith College in T-Level Software Development. This is a place where I am keeping record of the major projects I have completed over my journey learning Python, from simple rock paper scissors to a roguelike and a text adventure.
 
 <!--
 **SebMuskett/SebMuskett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
